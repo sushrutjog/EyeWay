@@ -54,7 +54,3 @@ open EyeWay.xcodeproj
    * Product → Archive
    * In Organizer, right-click the archive → Show in Finder → Show Package Contents → Products/Applications/EyeWay.app
    * Copy and compress for distribution.
-
-## License
-
-This project is distributed under the MIT License. See [LICENSE](LICENSE) for details.
